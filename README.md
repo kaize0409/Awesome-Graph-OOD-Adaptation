@@ -2,6 +2,15 @@
 
 This repository contains a list of papers on graph out-of-distribution adaptation.
 
+## Contents 
+- [Training-time Graph OOD Adaptation](#Training-time-Graph-OOD-Adaptation)
+    - [Model-centric Approaches](#Model-centric-Approaches)
+    - [Data-centric Approaches](#Data-centric-Approaches)
+- [Test-time Graph OOD Adaptation](#Test-time-Graph-OOD-Adaptation)
+    - [Model-centric Approaches](#Model-centric-Approaches)
+    - [Data-centric Approaches](#Data-centric-Approaches)
+- [Transferability evaluation](#Related-Transferability-evaluation)
+  
 ## Training-time Graph OOD Adaptation
 
 ### Model-centric Approaches
@@ -39,9 +48,7 @@ This repository contains a list of papers on graph out-of-distribution adaptatio
 | **Bridged-GNN** | Graph Transformation  | [[CIKM 2023] Bridged-GNN: Knowledge Bridge Learning for Effective Knowledge Transfer](https://arxiv.org/pdf/2308.09499v1.pdf) | [Code](https://github.com/wendongbi/Bridged-GNN)
 | **DC-GST** | Graph Transformation  | [[WSDM 2024] Distribution consistency based self-training for graph neural networks with sparse labels](https://arxiv.org/pdf/2401.10394.pdf) | [N/A] |
 
-
 ## Test-time Graph OOD Adaptation
-
 
 ### Model-centric Approaches
 
@@ -59,7 +66,6 @@ This repository contains a list of papers on graph out-of-distribution adaptatio
 | :------------ |:---------------:| :---------------| :---------------| 
 | **FRGNN** | Feature Reconstruction | [[arXiv] FRGNN: Mitigating the Impact of Distribution Shift on Graph Neural Networks via Test-Time Feature Reconstruction](https://arxiv.org/pdf/2308.09259.pdf)   | [N/A] |
 | **GTRANS** | Graph Transformation  | [[ICLR 2023] Empowering graph representation learning with test-time graph transformation](https://openreview.net/pdf?id=Lnxl5pr018)    | [Code](https://github.com/ChandlerBang/GTrans)
-
 
 ## Related: Transferability evaluation 
 

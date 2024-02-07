@@ -7,8 +7,8 @@ This repository contains a list of papers on graph out-of-distribution adaptatio
     - [Model-centric Approaches](#Model-centric-Approaches)
     - [Data-centric Approaches](#Data-centric-Approaches)
 - [Test-time Graph OOD Adaptation](#Test-time-Graph-OOD-Adaptation)
-    - [Model-centric Approaches](#Model-centric-Approaches)
-    - [Data-centric Approaches](#Data-centric-Approaches)
+    - [Model-centric Approaches](#Model-centric-Approaches-1)
+    - [Data-centric Approaches](#Data-centric-Approaches-1)
 - [Transferability evaluation](#Related-Transferability-evaluation)
   
 ## Training-time Graph OOD Adaptation

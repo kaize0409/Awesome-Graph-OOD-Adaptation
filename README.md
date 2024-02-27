@@ -2,6 +2,8 @@
 
 This repository contains a list of papers on graph out-of-distribution adaptation.
 
+Check out our survey: [Beyond Generalization: A Survey of Out-Of-Distribution Adaptation on Graphs](https://arxiv.org/pdf/2402.11153.pdf)
+
 ## Contents 
 - [Training-time Graph OOD Adaptation](#Training-time-Graph-OOD-Adaptation)
     - [Model-centric Approaches](#Model-centric-Approaches)
